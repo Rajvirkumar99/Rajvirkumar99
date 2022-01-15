@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rajvirkumar99
 - 👀 I’m interested in ... data science 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...ML Project
 - 📫 How to reach me ... rajvir3099@gmail.com
 
 <!---
