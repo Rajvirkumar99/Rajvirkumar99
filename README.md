@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rajvir Kumar</h1>
 <h3 align="center">A passionate About Data Science & Data Analyst from India</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611f07fb1566020a768b1835d9c8b9d1e743734eb94&rid=giphy.gif&ct=g">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajvirkumar99&label=Profile%20views&color=0e75b6&style=flat" alt="rajvirkumar99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajvirkumar99" alt="rajvirkumar99" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/thakurrajvirsi3" target="blank"><img src="https://img.shields.io/twitter/follow/thakurrajvirsi3?logo=twitter&style=for-the-badge" alt="thakurrajvirsi3" /></a> </p>
 
 - 🔭 I’m currently working on [Business Analyst](https://drive.google.com/drive/folders/1okvgfJR9Ez7IkaEDCE7iKB0geFV-C6y9?usp=sharing)
