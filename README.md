@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajvir Kumar</h1>
 <h3 align="center">A passionate About Data Science & Data Analyst from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcomputer-science&psig=AOvVaw1ekiluJhBHjGQbNog70wRq&ust=1666541380516000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIiK-smc9PoCFQAAAAAdAAAAABAO">
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611f07fb1566020a768b1835d9c8b9d1e743734eb94&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajvirkumar99&label=Profile%20views&color=0e75b6&style=flat" alt="rajvirkumar99" /> </p>
 
