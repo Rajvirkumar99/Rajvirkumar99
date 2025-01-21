@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajvirkumar99" alt="rajvirkumar99" /></a> </p>
 <p align="left"> <a href="https://twitter.com/thakurrajvirsi3" target="blank"><img src="https://img.shields.io/twitter/follow/thakurrajvirsi3?logo=twitter&style=for-the-badge" alt="thakurrajvirsi3" /></a> </p>
 
-- 🔭 I’m currently working on [Business Analyst](https://drive.google.com/drive/folders/1okvgfJR9Ez7IkaEDCE7iKB0geFV-C6y9?usp=sharing)
+- 🔭 I’m currently working on [Senior Data Analyst](https://drive.google.com/drive/folders/1okvgfJR9Ez7IkaEDCE7iKB0geFV-C6y9?usp=sharing)
 
 - 🌱 I’m currently learning **Machine Learning , Python , Deep Learning,NLP,**
 
